@@ -1,5 +1,4 @@
-import os from 'os'
-const host = os.networkInterfaces()['Wi-Fi'].find(wifi => wifi.family === 'IPv4' && wifi.internal === false).address
+const host = 'l'
 const PORT = process.env.PORT || 4000
 const PRIVATE_KEY = 'PRIVATE'
 
