@@ -18,6 +18,9 @@ const server = http.createServer( (req, res) => {
 
 	const app = new Express(req, res)
 
+	app.get('/',(req,res)=>{
+		return res.end('ok')
+	})
 	app.post('/login', LOGIN)
 	app.post('/register', REGISTER)
 
