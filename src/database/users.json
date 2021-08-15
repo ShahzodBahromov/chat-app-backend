@@ -1,0 +1,34 @@
+[
+    {
+        "user_id": 1,
+        "contact": "998900010290",
+        "gender": "1",
+        "age": "21",
+        "username": "farruh",
+        "password": "1111"
+    },
+    {
+        "user_id": 2,
+        "contact": "998900010290",
+        "gender": "1",
+        "age": "21",
+        "username": "doniyor",
+        "password": "1111"
+    },
+    {
+        "user_id": 3,
+        "contact": "998900010290",
+        "gender": "1",
+        "age": "21",
+        "username": "rahim",
+        "password": "1111"
+    },
+    {
+        "user_id": 4,
+        "contact": "11",
+        "gender": "1",
+        "age": "1",
+        "username": "begi",
+        "password": "1111"
+    }
+]
